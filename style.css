@@ -1,0 +1,66 @@
+header{
+    height: 50px;
+    width: 500px;
+    border: solid 1px grey;
+    font-size: large; color: white;
+    position: absolute;
+    left: 480px;
+}
+
+div{
+    height: 500px;
+    width: 500px;
+    background-color: white;
+    margin: auto;
+    align-items: center;
+    border-color: grey;
+}
+
+.container{
+    height: 150px;
+    width: 200px;
+    background-color: rgb(17, 146, 17);
+    position: absolute;
+    top: 65px;
+    left: 570px;
+    text-align: center; font-size: large; color: white;
+}
+
+.div2{
+    height: 150px;
+    width: 100px;
+    background-color: rgb(172, 45, 189);
+    position: absolute;
+    left: 780;
+    top: 65px; 
+    text-align: center; font-size: large; color: white;
+}
+
+.div3{
+    height: 100px;
+    width: 150px;
+    background-color: rgb(226, 140, 42);
+    position: absolute;
+    left: 570;
+    top: 220px; 
+    text-align: center; font-size: large; color: white;
+}
+.div4{
+    height: 100px;
+    width: 150px;
+    background-color: rgb(226, 140, 42);
+    position: absolute;
+    left: 730px;
+    top: 220px; 
+    text-align: center; font-size: large; color: white;
+}
+
+footer{
+    font-size: large; color: white;
+    height: 40px;
+    width: 500px;
+    background-color: rgb(21, 72, 148);
+    position: absolute;
+    left: 480px;
+    top: 325px;
+}
